@@ -1,5 +1,7 @@
+Full logo:<img width="2048" height="768" alt="Nova OS Futuristic Blue Logo" src="https://github.com/user-attachments/assets/6e7c8b89-c8b7-43b6-b1ad-613e8bb20ab6" /> 
+Single Letter logo:<img width="1254" height="1254" alt="Cosmic N Emblem with Orbital Star" src="https://github.com/user-attachments/assets/ba860b94-e7c4-4455-b44d-5adddab351e2" />
 
-<img width="1254" height="1254" alt="Cosmic N Emblem with Orbital Star" src="https://github.com/user-attachments/assets/b61ff37d-11d7-48a3-a3e3-5ffbc9b80e67" />
+
 Nova OS (As of November 3, 2026) is an AI made project. This tests if Ai could really take over the OS side of computers.
 Here is the versions so far:
 
