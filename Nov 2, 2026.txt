@@ -1,0 +1,1 @@
+The first respiratory for project Nova OS has been made, while no exact releases have been Made, I'm currently trying to pull Nova OS'S files from Antigravity.
