@@ -11,11 +11,8 @@ How the name came:
 
 {[Name][Base ver][Beta/Update/None][Build number of **that** version]}
 
-it is:
+it has:
 
-32 Bit,
+32 Bit, Runs on a iso, Bios only.
+<img width="716" height="391" alt="Screenshot 2026-11-03 162500" src="https://github.com/user-attachments/assets/3fd872ae-1f4b-4223-98ee-bfb6d49a8b86" />
 
-Bios,
-
-The start.
-<img width="720" height="400" alt="legacy_boot2" src="https://github.com/user-attachments/assets/b9dd2fdc-c206-47fe-810d-095c7d8b191d" />
