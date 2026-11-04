@@ -29,8 +29,6 @@ Initial Prototype Memory Layout
 Basic TTY Character & String Output Routines
 Foundational Proof of Concept for AI-Constructed OS Environments
 
-<img width="716" height="393" alt="Screenshot 2026-11-03 162603" src="https://github.com/user-attachments/assets/663cfda9-2f96-496a-8f8c-c37ff9c23f15" />
-
 Nova OS 1 Beta 2 Build 9739
 
 How the name came:
@@ -54,8 +52,6 @@ PC Speaker Audio Synthesizer
 Expanded 64-Bit Interactive Shell
 Added built-in commands
 GDT Bootstrap & Memory Alignment Fixes
-
-<img width="892" height="539" alt="Screenshot 2026-11-03 165454" src="https://github.com/user-attachments/assets/7fd8867a-d5ad-4454-b645-76c6e38f2660" />
 
 Nova OS 1 Beta 3 Build 1254
 
