@@ -339,3 +339,55 @@ Versioning Formula Breakdown:
 All documented releases strictly follow:
 {[Name][Base ver][Beta/Update/None][Build number of that version]}
 (e.g., Nova OS + 1 + Beta + 5648 = Nova OS 1 Beta 15 Build 5648, internally labeled v0.8.5648).
+
+Nova OS 1 Beta 16 Build 5167
+
+How the name came:
+{[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][5167]}
+
+It has:
+64 Bit, Runs on ISO & Installed Hard Disk, Native Dual BIOS + UEFI Boot.
+
+What did it add?
+Build 5167 added/changed:
+
+- Nova OS Program (.nosp) Executable Architecture:
+  - Proprietary 64-bit binary executable specification serving as the native replacement for legacy Windows .exe executables.
+  - Verification of 4-byte header magic (0x50534F4E / NOSP).
+- Live ISO Startup Installer (startup.nosp):
+  - Bundled directly on the live optical media (Drive D:\startup.nosp).
+  - Native shell direct execution support (startup.nosp and d:\startup.nosp).
+- Storage Drive Explorer Subsystem (list drive):
+  - Interactive shell command list drive / list drives enumerating detected media:
+    - [A] Floppy Disk (1.44MB)
+    - [C] Hard Disk NovaFS
+    - [D] ATAPI CD-ROM / ISO (Live Media)
+  - Interactive file selection on Drive D: displaying file types (<APP>, <FILE>, <CFG>, <DIR>).
+- Contextual Action Menu:
+  - Selecting any file opens the action prompt:
+    - [1] Open / Run
+    - [2] Edit (Header inspection)
+    - [3] Cancel
+- Safe Installer Flow with User File Preservation:
+  - Opening startup.nosp presents the official warning prompt:
+    ==================================================
+               Welcome to NovaOS Installer
+    ==================================================
+
+    Press [ENTER] to continue, or [C] to cancel.
+
+    (WARNING: This will erase your current OS,
+     but the files you made will be saved!)
+    ==================================================
+  - Pressing [C] or [ESC] cancels and cleanly returns to the NovaOS shell.
+  - Pressing [ENTER] executes the 4-phase deployment sequence:
+    - [1/4] Preserving user files and documents... OK.
+    - [2/4] Formatting target partition (NovaFS)... OK.
+    - [3/4] Deploying NovaOS v0.9.5167 64-bit kernel & UEFI... OK.
+    - [4/4] Restoring user files to Hard Disk C:... OK.
+    - Displays [SUCCESS] NovaOS v0.9.5167 successfully installed! and returns cleanly to desktop.
+- File Explorer GUI Integration:
+  - Added startup.nosp as an executable entry in the graphical File Explorer (files command).
+- Low-Level Disk & Firmware Safety Fixes:
+  - Fixed MBR sector 0 byte size discrepancy in build_target_disk.py (removing 2-byte alignment offset to restore clean BIOS boot on installed disks).
+  - Added balanced stack cleanup and floating bus (0xFF) abort logic in ata_write_sectors to prevent CPU faults across hardware and VM setups.
