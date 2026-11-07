@@ -4,20 +4,16 @@ Full logo:
 Single Letter logo: 
 <img width="1254" height="1254" alt="Cosmic N Emblem with Orbital Star" src="https://github.com/user-attachments/assets/f890685e-840d-4da1-a78a-f8a4f663de25" />
 
-Nova OS (As of November 4, 2026) is an AI made project. This tests if AI could really take over the OS side of computers. Here are the versions so far:
-
+Nova OS (As of November 7, 2026) is an AI made project. This tests if AI could really take over the OS side of computers. Here are the versions so far:
 Nova OS 1 Beta 1 Build 1267
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1267]}
 
-it has:
-
+It has:
 32 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 1267 added/changed:
 
 Initial 32-bit Core Bootloader & Kernel Architecture
@@ -28,19 +24,15 @@ Low-Level Hardware Interrupt Handling (PIC 8259 Remapping)
 Initial Prototype Memory Layout
 Basic TTY Character & String Output Routines
 Foundational Proof of Concept for AI-Constructed OS Environments
-
 Nova OS 1 Beta 2 Build 9739
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9739]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 9739 added/changed:
 
 64-Bit Long Mode Transition
@@ -52,19 +44,15 @@ PC Speaker Audio Synthesizer
 Expanded 64-Bit Interactive Shell
 Added built-in commands
 GDT Bootstrap & Memory Alignment Fixes
-
 Nova OS 1 Beta 3 Build 1254
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1254]}
 
-it has:
-
+It has:
 16 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 1254 added/changed:
 
 Earliest Documented BIOS Boot Foundation (MBR Architecture)
@@ -77,15 +65,12 @@ Floppy Disk Emulation El Torito ISO Architecture
 Nova OS 1 Beta 4 Build 9457
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9457]}
 
-it has:
-
+It has:
 32 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 9457 added/changed:
 
 Multi-Stage Bootloader Architecture (MBR Stage 1 + Stage 2 Loader)
@@ -98,15 +83,12 @@ Direct Kernel Loading to Address 0x10000
 Nova OS 1 Beta 5 Build 1342
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1342]}
 
-it has:
-
+It has:
 32 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 1342 added/changed:
 
 NovaFS Custom Operating System Filesystem Implementation
@@ -119,15 +101,12 @@ Automated Boot-Time File Listing on VGA Text Console
 Nova OS 1 Beta 6 Build 9653
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9653]}
 
-it has:
-
+It has:
 32 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 9653 added/changed:
 
 VESA BIOS Extensions (VBE 2.0/3.0) High-Resolution Graphics Subsystem
@@ -140,15 +119,12 @@ Graphical Window & Titlebar Desktop Foundations
 Nova OS 1 Beta 7 Build 1842
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1842]}
 
-it has:
-
+It has:
 32 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 1842 added/changed:
 
 Custom NFNT Binary Typography Architecture (NFNT File Format)
@@ -161,15 +137,12 @@ Elimination of VGA Legacy 80×25 Text Buffer in Favor of Pure Framebuffer Text
 Nova OS 1 Beta 8 Build 9274
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9274]}
 
-it has:
-
+It has:
 32 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 9274 added/changed:
 
 Interactive PS/2 Keyboard Controller Driver (Ports 0x64 Status / 0x60 Data)
@@ -186,15 +159,12 @@ reboot (Hardware reset via PS/2 0xFE pulse)
 Nova OS 1 Beta 9 Build 1568
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1568]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 1568 added/changed:
 
 Transition from 32-Bit Protected Mode to 64-Bit Long Mode (x86-64)
@@ -208,15 +178,12 @@ Prevention of Long-Mode Bootstrap #GP Triple-Fault Loops
 Nova OS 1 Beta 10 Build 9831
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9831]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 9831 added/changed:
 
 Official NovaOS Branding Visual Identity Integration
@@ -229,15 +196,12 @@ Dual Resource Discovery in NovaFS (Simultaneous Font, Logo, and Animation Loadin
 Nova OS 1 Beta 11 Build 1746
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1746]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 1746 added/changed:
 
 Dynamic Multi-Font Typography Discovery in NovaFS
@@ -254,15 +218,12 @@ Calibrated Animation Frame Pacing
 Nova OS 1 Beta 12 Build 9612
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9612]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios only.
 
 What did it add?
-
 Build 9612 added/changed:
 
 Initramfs / RAM-Based Live Storage Installer Engine
@@ -278,15 +239,12 @@ ISO9660 PVD and El Torito Boot Descriptor Verification
 Nova OS 1 Beta 13 Build 1385
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][1385]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios & UEFI Ready.
 
 What did it add?
-
 Build 1385 added/changed:
 
 UEFI Graphics Output Protocol (GOP) Architectural Support
@@ -294,24 +252,21 @@ Unified GOP Handoff Structure Definition (include/uefi_gop.inc)
 Stage 2 Resolution Selection Menu with 15-Second Selection Timeout
 Safe Default Resolution Fallback to 640×480×32
 Multi-Resolution Support:
-1) 640×480×32 (Safe Default)
-2) 800×600×32
-3) 1024×768×32 (Standard)
-4) 1280×1024×32
+640×480×32 (Safe Default)
+800×600×32
+1024×768×32 (Standard)
+1280×1024×32
 Runtime GUI & Terminal Adaptive Sizing (Dynamic Rows, Cols, and Centering)
 New Shell Command res to Inspect Active Framebuffer Geometry
 Nova OS 1 Beta 14 Build 9749
 
 How the name came:
-
 {[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][9749]}
 
-it has:
-
+It has:
 64 Bit, Runs on a iso, Bios & UEFI Ready.
 
 What did it add?
-
 Build 9749 added/changed:
 
 Cumulative Master Release Incorporating all Documented Enhancements
@@ -325,5 +280,62 @@ Dynamically Centered Branding Logo Across All Resolutions
 Normalized YES Installer Confirmation (Accepts "yes", "YES", "Yes", "y", "Y")
 Full Comprehensive Command Suite (help, res, font, install, info, ver, ls, clear, reboot, shutdown)
 Verified Live Boot in VirtualBox with Screen Captures
+Nova OS 1 Beta 15 Build 5648
 
+How the name came:
+{[Name][Base ver][Beta/Update/None][Build number of that version]} -> {[Nova OS][1][Beta][5648]}
+
+It has:
+64 Bit, Runs on ISO & Installed Hard Disk, Native Dual BIOS + UEFI Boot.
+
+What did it add?
+Build 5648 added/changed:
+
+Native UEFI Bootloader Engine (BOOTX64.EFI):
+Fully compliant PE32+ application adhering to UEFI 2.x Specification.
+Resolved blinking cursor / black screen hangs caused by missing PE32+ Optional Header entry point (corrected AddressOfEntryPoint RVA offset at 0x1000).
+Implemented runtime RIP-relative GDT physical base calculation (lea rax, [rel gdt64]; mov [rel gdt64_base], rax) to eliminate high-memory page faults during long-mode reload after ExitBootServices.
+Added automated fallback filesystem protocol discovery (BootServices->LocateProtocol for EFI_SIMPLE_FILE_SYSTEM_PROTOCOL) enabling resilient payload resolution directly from root or /EFI/NOVA.
+Compliant FAT16 EFI System Partition (efiboot.img):
+Full BPB specification with 0x80 drive signature, 5760 sectors (2880 KB), 2 FAT tables, and 512 root directory entries.
+Complete /EFI/BOOT/BOOTX64.EFI and /EFI/NOVA/ directory hierarchies alongside root payload mirrors.
+Dual BIOS + UEFI Hard Disk Partitioning (Hybrid MBR + ESP):
+Unified disk layout allowing the exact same hard disk to boot seamlessly under both legacy BIOS and native UEFI firmware.
+LBA 0..1023 holds the BIOS MBR, Stage 2 loader, 64-bit Kernel, and NovaFS.
+Injected MBR Partition Entry 1 at offset 446 with Type 0xEF (EFI System Partition), Active Flag 0x80, starting LBA 2048, and 5760 sectors.
+Windows XP-Style Hard Drive Setup Wizard:
+Complete 5-step installer wizard (Hardware Detection, RAM Allocation, Disk Selection, Storage Profile, and Hardware RTC Clock Setup).
+Fixed BusyBox ash ANSI console escaping corruption (//33...) by replacing echo -e with POSIX printf byte sequence expansion.
+In-flight SHA-256 payload integrity verification adjusted to ignore LBA 0 partition table injection.
+Enhanced File Explorer & Navigation:
+Embedded on-screen navigational key guidance: [UP/DN] Move  [ENTER] Open  [ESC] Close  [PgUp/PgDn] Jump.
+Non-destructive ESC window dismissal cleanly returning to the desktop environment.
+Categorized Shell Help System:
+Comprehensive reorganization of shell commands into distinct functional categories (SYSTEM, DISPLAY, FILE SYSTEM, GUI, DRIVES, FONT, MATH).
+Interactive VirtualBox Live Verification:
+Verified live booting directly from virtual hard drive under native UEFI firmware at 
+1920
+×
+1200
+1920×1200 resolution.
+Verified version shell command reporting NovaOS v0.8.5648 (Build 5648) (x86_64).
+Verified legacy BIOS boot splash, animated spinner, and desktop execution on the identical disk image.
 NOTE
+
+Evolution of Bitness & Architecture:
+
+16-Bit Real Mode: Beta 3 (Build 1254) laid the bare-metal MBR roots.
+32-Bit Protected Mode: Beta 1 (Build 1267) and Beta 4–8 (Builds 9457 to 9274) developed the early text console, VBE graphics, custom NFNT fonts, and PS/2 keyboard drivers.
+64-Bit Long Mode: Beta 2 (Build 9739) and Beta 9–15 (Builds 1568 to 5648) completed the transition to x86-64 with PML4 4-level paging, identity mapping, high-resolution desktop rendering, AC97 audio, and live storage installation.
+
+Boot Medium & Firmware Milestones:
+
+Builds 1267 – 9612: Exclusively BIOS-based El Torito ISO media.
+Builds 1385 – 9749: Introduced GOP specifications and dual BIOS/UEFI readiness.
+Build 5648: First release delivering Native UEFI Hard Disk Booting from an installed disk image (BOOTX64.EFI on a Type 0xEF FAT16 ESP) alongside Hybrid MBR BIOS Booting, eliminating the dependency on legacy CSM firmware.
+
+Versioning Formula Breakdown:
+
+All documented releases strictly follow:
+{[Name][Base ver][Beta/Update/None][Build number of that version]}
+(e.g., Nova OS + 1 + Beta + 5648 = Nova OS 1 Beta 15 Build 5648, internally labeled v0.8.5648).
